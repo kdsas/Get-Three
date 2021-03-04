@@ -6,6 +6,6 @@ Get Three is a LAN Multiplayer for four players, Kill three people to win the ga
 
 What I Learned: LAN networking in Unreal Engine 4, 
 
-A* pathfinding, 
+A* pathfinding, and
 
 Unreal Engine 4 menu and level creation 
